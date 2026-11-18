@@ -113,6 +113,7 @@ Dr. A.P.J. Abdul Kalam Institute of Technology, Tanakpur.
 | [Job Searcher](https://github.com/jhasidhant234-stack/job-searcher) | Job search and application workflow automation |
 | [IMDb Content Performance Dashboard](https://github.com/jhasidhant234-stack/imdb-content-performance-dashboard) | Data analysis and content performance visualization |
 | [Face Attendance System](https://github.com/jhasidhant234-stack/Face_Attendance_system) | Automated face recognition-based attendance tracking using Python, OpenCV, and SQLite with real-time detection and user management |
+| [Internship Recommendation Engine](https://github.com/jhasidhant234-stack/Internship_Recommendation_Engine) | NLP-based internship recommendations using TF-IDF vectorization and cosine similarity |
 
 ---
 
